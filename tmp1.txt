@@ -1,1 +1,2 @@
 New changes in my-new-branch
+some more changes in my-new-branch
